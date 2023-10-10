@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ramajeyam
- *
- */
-module javaTraining {
-}
